@@ -23,6 +23,7 @@ Testing MySQL with in node console .. xamp MySQL server!
 Iuse phpAdmin (localhost:127.0.0.1 - http://localhost/phpmyadmin)
 to create a database named node_heroDB. Table is USERS and has a name (varchar 20) and age (smallint 6)
 I added a simple record - Mike 55 
+I used https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/ as a guide to get thie below to work 
 
 Then command prompt ... node node_heroDBConsole.js - you should see in console 
 connected as id ... 
