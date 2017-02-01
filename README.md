@@ -24,7 +24,11 @@ Iuse phpAdmin (localhost:127.0.0.1 - http://localhost/phpmyadmin)
 to create a database named node_heroDB. Table is USERS and has a name (varchar 20) and age (smallint 6)
 I added a simple record - Mike 55 
 
-Then command prompt ... node node_heroDBConsole.js
+Then command prompt ... node node_heroDBConsole.js - you should see in console 
+connected as id ... 
+The solution is:  [ RowDataPacket { name: 'Mike', age: 55 } ]
+
+
 
 
     
