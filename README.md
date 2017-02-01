@@ -14,7 +14,10 @@ To test if node.js with browser :
     to kill expressNode.js .. go to command window and enter <ctrl-c>
 
 Next I check to see if I can use expressHandlebars
-I set up a subdirectory views and views/layout 
+I set up a subdirectory views and views/layout off of directory where index2.js sits 
+
+In these files I have my main layout and my views html 
+Of course, I had to install expressHadlebars .. npm install expressHandlebars 
 
     
 
