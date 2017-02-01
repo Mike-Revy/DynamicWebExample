@@ -19,5 +19,13 @@ I set up a subdirectory views and views/layout off of directory where index2.js 
 In these files I have my main layout and my views html 
 Of course, I had to install expressHadlebars .. npm install expressHandlebars 
 
+Testing MySQL with in node console .. xamp MySQL server!  
+Iuse phpAdmin (localhost:127.0.0.1)
+to create a database named node_heroDB. 
+I added a simple record 
+
+Then node node_heroDBConsole.js
+
+
     
 
