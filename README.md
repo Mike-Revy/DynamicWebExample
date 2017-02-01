@@ -12,6 +12,9 @@ To test if node.js with browser :
     To test in browser go to localhost:3000
     Should see Hello from express in browser
     to kill expressNode.js .. go to command window and enter <ctrl-c>
-    
+
+Next I check to see if I can use expressHandlebars
+I set up a subdirectory views and views/layout 
+
     
 
