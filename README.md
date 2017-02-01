@@ -29,7 +29,7 @@ Then command prompt ... node node_heroDBConsole.js - you should see in console
 connected as id ... 
 The solution is:  [ RowDataPacket { name: 'Mike', age: 55 } ]
 
-
+https://www.codeproject.com/Articles/869724/Improve-Node-js-Performance-by-Turning-It-into-a-C
 
 
     
