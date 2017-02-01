@@ -20,11 +20,11 @@ In these files I have my main layout and my views html
 Of course, I had to install expressHadlebars .. npm install expressHandlebars 
 
 Testing MySQL with in node console .. xamp MySQL server!  
-Iuse phpAdmin (localhost:127.0.0.1)
-to create a database named node_heroDB. 
-I added a simple record 
+Iuse phpAdmin (localhost:127.0.0.1 - http://localhost/phpmyadmin)
+to create a database named node_heroDB. Table is USERS and has a name (varchar 20) and age (smallint 6)
+I added a simple record - Mike 55 
 
-Then node node_heroDBConsole.js
+Then command prompt ... node node_heroDBConsole.js
 
 
     
